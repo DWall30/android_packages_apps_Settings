@@ -356,7 +356,7 @@
 
     <!-- Force expanded notifications -->
     <string name="force_expanded_notifications_title">Принудительно развернутое уведомление</string>
-    <string name="force_expanded_notifications_summary">Принудительное развертывание уведомлений для всех приложений, которые это поддерживают</string>
+    <string name="force_expanded_notifications_summary">Принудительно разворачивать уведомления для всех приложений, которые это поддерживают</string>
 
     <!-- Disabling immersive mode messages -->
     <string name="disable_immersive_message_title">Сообщения в режиме погружения</string>
@@ -609,8 +609,8 @@
     <string name="status_bar_custom_header_title">Динамический фон заголовка</string>
     <string name="status_bar_custom_header_summary">Показывать изображение в заголовке панели уведомления в зависимости от времени суток</string>
     <string name="daylight_header_pack_title">Пакет изображений</string>
-    <string name="status_bar_custom_header_shadow_title">Тень</string>
-    <string name="status_bar_custom_header_shadow_summary">Включает тень для лучшей видимости  на ярких фонах</string>
+    <string name="status_bar_custom_header_shadow_title">Затемнение изображения заголовка</string>
+    <string name="status_bar_custom_header_shadow_summary">Затемнить изображение заголовка для лучшей видимости  на ярких фонах</string>
 
     <!-- powermenu fragment -->
     <string name="power_menu_reboot_title">Перезагрузка</string>
